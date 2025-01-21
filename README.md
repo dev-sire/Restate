@@ -1,4 +1,6 @@
-# Expo Router Template with Nativewind
+# ReState: A Minimal Real Estate App for Andriod and IOS
+
+## Built using Expo Router and Nativewind
 
 An Expo Router template with NativeWind styling (for Native & Web).
 
