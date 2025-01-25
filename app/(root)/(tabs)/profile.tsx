@@ -69,6 +69,7 @@ const profile = () => {
                 <View className='flex flex-col mt-5 border-t border-primary-200 pt-5'>
                     <SettingsItem icon={icons.logout} title='Logout' textStyle='text-danger' showArrow={false} onPress={handleLogout} />
                 </View>
+                <Text className='text-lg font-rubik-bold text-primary-300 text-center mt-5'>Built with ❤️ by Aman Shahid, you can contribute to the project on GitHub</Text>
             </ScrollView>
         </SafeAreaView>
     )
